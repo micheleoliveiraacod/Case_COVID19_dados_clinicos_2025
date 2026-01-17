@@ -76,9 +76,8 @@ Em quantos casos fizeram raio-x e tomografia em relação ao total?
 
 - [Dataset's do projeto no Google Drive](https://drive.google.com/drive/u/2/folders/19_gSEzlOwNPJJ_BaG6RUaiWtrmzmPxMO)
 <br/>
-<br/>
 
-## ⚖️ Uso Ético e Responsável
+## 📃 Instruções de uso
 
 *Este projeto tem objetivos acadêmicos.*
 
